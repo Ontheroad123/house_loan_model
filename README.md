@@ -2,6 +2,7 @@
 具体原理及计算公式参考：https://zhuanlan.zhihu.com/p/670993980?
 
 ![公积金提前还款与月供关系](https://github.com/Ontheroad123/house_loan_model/assets/31181026/3aafba75-388c-4f2f-b6c2-2ff9ad052865)
+
 提前还款金额与月供
 
 ![年收入与纳税](https://github.com/Ontheroad123/house_loan_model/assets/31181026/aca69ded-a6b0-40dd-8119-bd9479a6fdf7)
